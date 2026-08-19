@@ -2,21 +2,19 @@
 name: potbot-briefing
 description: >
   Run an interactive briefing that transfers real ownership of AI-produced (or
-  team-produced) content to the human who must present and defend it — so they
-  understand the detail, know every choice that was made, trust that the
-  original ask was fully answered, and survive hostile questions. Use whenever
-  the user must present, pitch, or answer questions on work they didn't fully
-  author: "brief me on this", "help me own this deck", "I'm presenting this
-  tomorrow", "prep me for questions", "murder board me", "what if they
-  challenge me on this?", "I don't really understand what you wrote". Also
-  offer it proactively right after producing any substantial deliverable the
-  user will present to others — a deck, report, proposal, strategy, plan, or
-  recommendation — because a deliverable the user can't defend isn't finished.
-  Trigger even when the user only voices the worry rather than asking for prep.
-  The briefing is a staged interactive process (triage → pack → pre-brief →
-  teach-back → murder board, with a voice rehearsal option), not a document
-  dump. Do not use for content the audience knows is AI-written, or for simple
-  factual Q&A about a document.
+  team-produced) content to the human who must present and defend it — the
+  detail, the choices made, whether the original ask was fully answered — until
+  they can survive hostile questions. Use whenever the user must present,
+  pitch, or take questions on work they didn't fully author: "brief me on
+  this", "help me own this deck", "I'm presenting this tomorrow", "prep me for
+  questions", "murder board me", "what if they challenge me?", "I don't really
+  understand what you wrote". Also offer it proactively after producing any
+  substantial deliverable the user will present to others (deck, report,
+  proposal, plan) — a deliverable the user can't defend isn't finished.
+  Trigger even when the user only voices the worry. Runs a staged interactive
+  process (triage → pack → pre-brief → teach-back → murder board, with voice
+  rehearsal), never a document dump. Not for content the audience knows is
+  AI-written, or simple factual Q&A.
 ---
 
 # POTBot Briefing
