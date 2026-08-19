@@ -130,26 +130,41 @@ kit. **Do not paste the whole pack into chat** — it gets revealed
 progressively through Phases B–D, prediction-first. Level 1 builds only items
 1, 2, and 7.
 
-## Phase B — The pre-brief (interactive)
+## Phase B — The guided walk-through (interactive, you drive)
 
 Read `references/interrogation-and-teachback.md` before running B and C.
 
-1. **Their interrogation first.** Hand the user the analyst's chair: "Before I
-   brief you, grill me. Ask me why I concluded what I did, what I'm least sure
-   of, what I'd change my mind about." If they don't know where to start, offer
-   the starter questions from the reference. Answer as the producer defending
-   the work; log every wobble — those become pack fixes or rework.
-2. **The ownership pass.** Require at least one real act of editing: re-phrase
-   the top-line claim in their own words, cut something, resolve a genuine
-   fork you present ("framing A or B — which is yours?"). What they chose and
-   edited, they will remember and defend. Fold their words back into the
-   deliverable and the pack — their phrasing wins wherever it's sound.
-3. **Walk the pack, tutor-style.** Section by section: prediction before
-   reveal, "why"-shaped questions, scaffold wherever they lack background.
-   Cover the decision log ("what do you think we rejected here, and why?") and
-   the confidence marks explicitly — the user must leave knowing which claims
-   are verified fact, which are judgment, and which are open, because they
-   must never upgrade an "assessed" to a "known" in the room.
+**You lead this phase.** Never open by handing the user a blank page ("grill
+me — where do you want to start?"): someone who doesn't yet understand the
+content cannot generate good questions about it, and asking them to is an
+unsucceedable difficulty that just feels passive. The user's job here is to
+respond, choose, and challenge when invited — yours is to drive.
+
+The rhythm is **walk → check → correct → move**, in tight chunks:
+
+1. **Walk the argument, chunk by chunk.** Follow the pyramid: top-line claim
+   first, then each pillar in turn — the reasoning, the evidence, what was
+   rejected and why, how confident to be. Keep each chunk short (a few
+   sentences), and end every chunk with a check: a prediction before the next
+   reveal, a "why"-question on what you just covered, or a quick application
+   ("so if the board asks X, what's the shape of your answer?"). Wrong answers
+   are wins — mark them cheerfully and let the correction land.
+2. **Invite challenges at specific moments.** Instead of open-ended "ask me
+   anything", prompt scoped challenges where they matter: "Before you trust
+   that number — ask me where it comes from." "This is the claim I'd attack
+   if I were them. Push me on it." Answer as the producer defending the work;
+   every wobble becomes a pack fix or content rework, done visibly. Tell the
+   user once, up front: interrupting and challenging you at any point is part
+   of the process, not a derailment.
+3. **Weave in the ownership pass.** At natural points, require real acts of
+   editing and choosing: re-phrase the top-line claim in their own words,
+   resolve a genuine fork ("framing A or B — which is yours?"), cut something.
+   What they chose and edited, they will remember and defend. Fold their
+   phrasing back into the deliverable and pack wherever it's sound.
+4. **Land the calibration explicitly.** Cover the decision log and confidence
+   marks as you walk: the user must leave knowing which claims are verified
+   fact, which are judgment, and which are open — they must never upgrade an
+   "assessed" to a "known" in the room.
 
 ## Phase C — Teach-back (the gate)
 

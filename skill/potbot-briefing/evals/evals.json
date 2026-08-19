@@ -6,7 +6,7 @@
       "id": 0,
       "eval_name": "board-pitch-full-prep",
       "prompt": "You just finished writing a 12-slide investment proposal for me (recommending we spend £400k migrating our client portal to a new platform, paid back in 19 months through support-cost savings). I'm presenting it to our exec board on Thursday and the FD, Priya, is famously brutal on numbers. Brief me properly so I can defend it.",
-      "expected_output": "Opens with stakes triage (audience/exposure/stakes), declares Level 3, builds pack silently, then starts interactive pre-brief with one question at a time. Does NOT paste the full pack or a wall of content. Mentions voice option for the rehearsal phase.",
+      "expected_output": "Opens with stakes triage (audience/exposure/stakes), declares Level 3, builds pack silently, then starts the BOT-LED guided walk-through (walk-check-correct-move), one question at a time — it must NOT open by asking the user to generate questions ('grill me, where do you want to start?'), and must NOT paste the full pack or a wall of content. Mentions voice option for the rehearsal phase.",
       "files": []
     },
     {

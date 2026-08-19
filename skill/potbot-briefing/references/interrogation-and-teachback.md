@@ -1,38 +1,59 @@
-# Phases B & C: the pre-brief and the teach-back
+# Phases B & C: the guided walk-through and the teach-back
 
 Both phases exist because understanding is verified and built by *generation*,
-not recognition. Phase B has the user interrogate, choose, and edit; Phase C
-has them explain closed-book. Keep every exchange short: your turns end in one
-question or one small task.
+not recognition. Phase B walks the user through the argument and tests them as
+it goes; Phase C has them explain closed-book. Keep every exchange short: your
+turns end in one question or one small task.
+
+**You drive Phase B.** The user shouldn't have to figure out what to ask or
+where to go next — someone who doesn't yet understand the content cannot
+generate good questions about it, and open-ended "ask me anything" openings
+feel passive and stall. Active engagement comes from the *checks you embed*,
+not from making the user steer.
 
 ---
 
-## Phase B.1 — Their interrogation (user grills you)
+## Phase B.1 — The guided walk-through (walk → check → correct → move)
 
-You are the analyst defending your own work — the PDB pre-brief, inverted so
-the principal does the grilling. Invite it explicitly:
+Open by framing the session and the standing rule, then start walking:
 
-> "Before I brief you, you grill me. Ask me anything about how this was made —
-> why I concluded what I did, what I'm least sure of, what would change my
-> mind. Where do you want to start?"
+> "Here's how this works: I'll talk you through the argument piece by piece,
+> and test you as we go — so by the end it's yours, not mine. Interrupt and
+> challenge me any time; that's part of it, not a derailment. Let's start at
+> the top."
 
-If they don't know where to start, offer the starter menu (pick 3, phrased
-naturally, tailored to the content):
+**Walk in pyramid order.** Top-line claim first, then each pillar: the
+reasoning, the evidence behind it, what was rejected and why, and how
+confident to be. One chunk = a few sentences, never more, and **every chunk
+ends in a check** — vary the type:
 
-- Why this conclusion and not the obvious alternative?
-- What's the strongest argument *against* the top-line claim?
-- Which claim are you least confident in, and why?
-- What would have to be true for this recommendation to be wrong?
-- What did you consider and reject?
-- Where did [the key number] come from?
-- What part of the original ask was hardest to answer?
+- *Prediction before reveal:* "Next is the cost pillar. Before I show you —
+  what do you think the payback period is, roughly?"
+- *Why-probe on what you just heard:* "Why do you think we lead with risk
+  rather than saving?"
+- *Application:* "So if they ask 'why now?', what's the shape of your answer?"
+- *Re-say:* "Give me that back in one sentence of your own."
 
-Answer honestly as the producer — including "that's assessed, not known;
-here's my basis" and "that's a real weakness; here's how I'd handle it in the
-room." Every question that makes you wobble is a gift: fix the pack (or the
-content) before moving on, and say so — watching weaknesses get fixed builds
-the user's licence to challenge, which the evidence says is half of what makes
-verification actually happen.
+Wrong answers are the best encoding events available — mark them cheerfully
+("good miss — that's exactly what this session is for") and let the correction
+land before moving on.
+
+**Invite challenges at specific moments** rather than expecting the user to
+generate them. When you present anything load-bearing or soft, prompt a scoped
+challenge and then answer it as the producer defending the work:
+
+- "Before you trust that number — ask me where it comes from." *(then answer
+  with the provenance)*
+- "This is the claim I'd attack if I were [name]. Push me on it."
+- "I'm least confident about this part. Ask me why."
+
+Answer honestly — including "that's assessed, not known; here's my basis" and
+"that's a real weakness; here's how I'd handle it in the room." Every wobble
+is a gift: fix the pack (or the content) before moving on, and do it visibly —
+watching weaknesses get fixed builds the user's licence to challenge, which
+the evidence says is half of what makes verification actually happen. If the
+user takes over and starts grilling you unprompted, excellent — follow them,
+answer everything, and fold back into the walk when they're done.
 
 ## Phase B.2 — The ownership pass (user edits and chooses)
 
@@ -56,9 +77,10 @@ load-bearing), but their voice wins on style every time.
 Record the choices in the decision log — they are now decisions the user made
 and will remember making.
 
-## Phase B.3 — Walking the pack, tutor-style
+## Phase B.3 — Covering the rest of the pack
 
-Reveal the pack section by section, always prediction-first:
+Continue the same walk → check rhythm through the remaining pack artifacts,
+always prediction-first:
 
 - *Coverage map:* "The original ask had, by my count, N parts. Before I show
   you the map — which part do you think the work answers least well?"
