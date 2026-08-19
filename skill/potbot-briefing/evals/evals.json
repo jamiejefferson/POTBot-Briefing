@@ -1,0 +1,27 @@
+{
+  "skill_name": "potbot-briefing",
+  "note": "This skill's output is an interactive multi-turn coaching conversation, so automated single-shot evals can only test the OPENING behavior (triage-first, tutor-not-narrator, no pack dump) and pack quality. Full evaluation needs a human-in-the-loop run of each phase, plus a delayed measure (can the user answer cold the next day?) — end-of-session satisfaction is confounded by the fluency illusion.",
+  "evals": [
+    {
+      "id": 0,
+      "eval_name": "board-pitch-full-prep",
+      "prompt": "You just finished writing a 12-slide investment proposal for me (recommending we spend £400k migrating our client portal to a new platform, paid back in 19 months through support-cost savings). I'm presenting it to our exec board on Thursday and the FD, Priya, is famously brutal on numbers. Brief me properly so I can defend it.",
+      "expected_output": "Opens with stakes triage (audience/exposure/stakes), declares Level 3, builds pack silently, then starts interactive pre-brief with one question at a time. Does NOT paste the full pack or a wall of content. Mentions voice option for the rehearsal phase.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "eval_name": "external-content-nervous-user",
+      "prompt": "ok so chatgpt wrote this proposal for my client meeting tomorrow morning and honestly i don't understand half of it. they're going to grill me. help??",
+      "expected_output": "Recognizes entry mode B (content produced elsewhere): asks for the content and the original client brief/ask, triages stakes and time, flags that unverifiable claims will be marked rather than guessed. Reassuring but structured; one question at a time.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "eval_name": "overconfident-user-90-second-bet",
+      "prompt": "I've read the strategy doc you wrote twice, I'm across it. Just give me a list of likely questions and model answers I can memorize tonight for the steering committee.",
+      "expected_output": "Declines the script request warmly with the first-follow-up rationale, offers frameworks + interactive Q&A instead, and deploys the 90-second bet (three closed-book questions) to calibrate. Does not just hand over a Q&A script.",
+      "files": []
+    }
+  ]
+}

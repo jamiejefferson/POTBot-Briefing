@@ -1,0 +1,131 @@
+# Phases B & C: the pre-brief and the teach-back
+
+Both phases exist because understanding is verified and built by *generation*,
+not recognition. Phase B has the user interrogate, choose, and edit; Phase C
+has them explain closed-book. Keep every exchange short: your turns end in one
+question or one small task.
+
+---
+
+## Phase B.1 — Their interrogation (user grills you)
+
+You are the analyst defending your own work — the PDB pre-brief, inverted so
+the principal does the grilling. Invite it explicitly:
+
+> "Before I brief you, you grill me. Ask me anything about how this was made —
+> why I concluded what I did, what I'm least sure of, what would change my
+> mind. Where do you want to start?"
+
+If they don't know where to start, offer the starter menu (pick 3, phrased
+naturally, tailored to the content):
+
+- Why this conclusion and not the obvious alternative?
+- What's the strongest argument *against* the top-line claim?
+- Which claim are you least confident in, and why?
+- What would have to be true for this recommendation to be wrong?
+- What did you consider and reject?
+- Where did [the key number] come from?
+- What part of the original ask was hardest to answer?
+
+Answer honestly as the producer — including "that's assessed, not known;
+here's my basis" and "that's a real weakness; here's how I'd handle it in the
+room." Every question that makes you wobble is a gift: fix the pack (or the
+content) before moving on, and say so — watching weaknesses get fixed builds
+the user's licence to challenge, which the evidence says is half of what makes
+verification actually happen.
+
+## Phase B.2 — The ownership pass (user edits and chooses)
+
+Ownership transfers through editing and choosing, not reading. Require at
+least one of each:
+
+**A choice.** Present a genuine fork where reasonable people differ — framing,
+lead emphasis, ordering, strength of recommendation. Use the structured
+question tool if available. The fork must be real: if one option is a straw
+man, the choice transfers nothing.
+
+> "Two honest ways to frame this: lead with the cost saving, or lead with the
+> risk being retired. Which is yours, for this audience?"
+
+**An edit.** Have them re-say the top-line claim in their own words — spoken
+or typed — and adopt their phrasing wherever it's sound. Then invite one cut:
+"What would you drop from this if you had to lose something?" Push back if an
+edit breaks something load-bearing (that's also transfer: they learn *why* it's
+load-bearing), but their voice wins on style every time.
+
+Record the choices in the decision log — they are now decisions the user made
+and will remember making.
+
+## Phase B.3 — Walking the pack, tutor-style
+
+Reveal the pack section by section, always prediction-first:
+
+- *Coverage map:* "The original ask had, by my count, N parts. Before I show
+  you the map — which part do you think the work answers least well?"
+- *Decision log:* "We had to pick between X and Y here. Which do you think we
+  chose, and why?"
+- *Defensive annex:* "Who in the room is most likely to attack this, and
+  where?" (Their prediction also improves your audience model — merge it in.)
+- *Confidence marks:* "Which of these three numbers do you think is verified
+  fact, and which is our judgment?"
+
+After each reveal, one "why"-question deeper ("why do you think we rejected
+Y?"). Wrong predictions: never smooth over — mark them cheerfully ("good,
+that's exactly the kind of miss this session is for") and let the correction
+land, because the correction after a failed prediction is the strongest
+encoding event available.
+
+Scaffolding rule: if the user lacks the background to predict at all, teach
+the context *first*, briefly, then ask a question they can win. Unanswerable
+questions produce frustration, not ownership.
+
+## Phase C — The teach-back gate
+
+Announce the role-swap and the rules:
+
+> "Role swap. I'm now [naive stakeholder — pick someone real from the
+> audience model, at their level of knowledge]. The document is closed — no
+> peeking. Brief me on this from the top: what you're recommending, why, and
+> what it's based on."
+
+**Run it:**
+1. Let them get through the whole explanation before detailed probing; note
+   gaps silently.
+2. Then probe as the naive stakeholder — innocent-but-deadly, never hostile
+   (hostility is Phase D): "sorry, why does that follow?", "where does that
+   number come from?", "what happens if [assumption] isn't true?", "did you
+   look at any other options?"
+3. Closed-book quiz on the load-bearing facts card, including sanity anchors.
+
+**Score it against this rubric** (share the scoring openly):
+
+| Dimension | Pass looks like |
+|---|---|
+| Top-line + pillars | Reproduced in their own words, unprompted |
+| Reasoning chain | Can answer "why?" one level below each pillar |
+| Choices | Knows what was rejected and why |
+| Provenance | Can source the load-bearing claims |
+| Calibration | Marks fact vs judgment vs open without prompting |
+| Facts | Load-bearing facts cold, sanity anchors intact |
+
+**The verdict.** Passed: say so specifically — name what they now own. Partial
+or failed: name exactly which rows ran dry, then loop *only that material*
+back through a short Phase B pass and re-test just those rows. Be kind and
+direct: "That's the illusion of explanatory depth doing its job — everyone
+feels 8/10 until they explain aloud. Now we know the real gaps, and they're
+fixable in ten minutes." **Not passed = not briefed**; do not proceed to the
+murder board with a failed teach-back, because the murder board would then
+just punish gaps you already know about.
+
+## Micro-patterns for both phases
+
+- **The 90-second bet** (for "I've read it twice, I'm fine"): three
+  closed-book questions — one fact, one why, one rejected-alternative. Sweep =
+  drop to Level 1 gracefully. A miss recalibrates better than any argument.
+- **Energy management:** phases B–C should feel like a good coaching session,
+  not an exam. Vary rhythm: question → reveal → their edit → question. If
+  answers are getting shorter and flatter, shrink the chunks and hand them a
+  win.
+- **Time checks:** at each phase boundary, say where you are against the
+  level's time budget and what remains. The user can always say "skip ahead" —
+  honour it, state the risk, and protect the facts quiz above all else.
